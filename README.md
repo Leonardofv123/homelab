@@ -1,6 +1,6 @@
 # Homelab
 
-This is my home lab. It started as an old desktop sitting around doing nothing, and turned into a full networking, security and self-hosting setup that I use to learn and to run a few services at home.
+This is my home lab. It started with a server that was sitting unused, which a friend (Pedro) gave me, and turned into a full networking, security and self-hosting setup that I use to learn and to run a few services at home.
 
 Everything here runs on a single machine. The goal was never to have the most powerful rig, it was to understand how the pieces fit together: virtualization, firewalling, DNS, reverse proxy, remote access, monitoring. I document it mostly so my future self remembers why I did things a certain way, but also so other people can follow along.
 
